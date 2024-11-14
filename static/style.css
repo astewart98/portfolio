@@ -254,7 +254,7 @@
 *::after {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
 
 html {
@@ -936,6 +936,7 @@ a {
 .project-left {
   align-self: flex-start;
   margin-left: 22rem;
+  max-width: 100%;
 }
 
 @media (max-width: 1700px) {
