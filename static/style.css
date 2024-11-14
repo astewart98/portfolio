@@ -957,6 +957,13 @@ a {
   margin-right: -2rem;
 }
 
+@media (max-width: 500px) {
+  .project-left .project-info {
+    left: -10rem;
+    margin-right: -2rem;
+  }
+}
+
 .project-right {
   align-self: flex-end;
   margin-right: 22rem;
@@ -977,6 +984,13 @@ a {
 .project-right .project-info {
   right: -8rem;
   margin-left: -2rem;
+}
+
+@media (max-width: 500px) {
+  .project-right .project-info {
+    left: -10rem;
+    margin-right: -2rem;
+  }
 }
 
 .img-right {
