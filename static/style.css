@@ -581,6 +581,7 @@ a {
   position: relative;
   display: flex;
   align-items: center;
+  text-align: center;
   margin-top: 2.4rem;
   padding: 0.8rem 2.97rem;
   width: 27.41rem;
