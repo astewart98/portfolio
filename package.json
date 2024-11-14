@@ -1,0 +1,10 @@
+{
+    "name": "portfolio-site",
+    "version": "1.0.0",
+    "description": "A simple portfolio site",
+    "main": "index.html",
+    "scripts": {
+      "start": "echo 'Nothing to build, static site!'"
+    }
+  }
+  
