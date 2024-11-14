@@ -25,4 +25,4 @@ jobs:
           action: "upload"
           app_location: "." # The root folder of your project
           api_location: ""  # Leave this empty if you don't have an API
-          output_location: "" # Leave this empty for static content
+          output_location: "" # Leave this empty for static conten
