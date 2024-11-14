@@ -959,7 +959,7 @@ a {
 
 @media (max-width: 500px) {
   .project-left .project-info {
-    left: -10rem;
+    left: -13rem;
     margin-right: -2rem;
   }
 }
@@ -988,7 +988,7 @@ a {
 
 @media (max-width: 500px) {
   .project-right .project-info {
-    right: -10rem;
+    right: -13rem;
     margin-left: -2rem;
   }
 }
