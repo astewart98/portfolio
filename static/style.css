@@ -988,8 +988,8 @@ a {
 
 @media (max-width: 500px) {
   .project-right .project-info {
-    left: -10rem;
-    margin-right: -2rem;
+    right: -10rem;
+    margin-left: -2rem;
   }
 }
 
